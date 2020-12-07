@@ -1,0 +1,14 @@
+#jeu {
+    display: flex;
+}
+
+#div_compteur_mouettes {
+    display: flex;
+    flex-direction: column;
+}
+
+#compteur_mouettes {
+    text-align: center;
+    font-size: 2em;
+    font-weight: bold;
+}
